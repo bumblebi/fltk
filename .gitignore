@@ -107,7 +107,7 @@ etc/FLTKConfig.cmake
 /fluid/pixmaps/*.bck
 
 # /lib/
-/lib/lib*
+/lib/lib*moskalien
 /lib/*.lib
 /lib/*.a
 
